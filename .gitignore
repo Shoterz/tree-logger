@@ -1,0 +1,13 @@
+# Build outputs
+bin/
+obj/
+
+# Code::Blocks local files
+*.layout
+*.depend
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
