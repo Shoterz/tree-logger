@@ -1,6 +1,8 @@
 # Tree Logger
 
-Tree Logger is a small C++ desktop logging app built with wxWidgets. It is designed for developers who want a quick way to capture notes while working, categorize them by type, add timestamps, and save the log as a text file.
+Tree Logger is a lightweight desktop logging tool for developers who want to capture what they are doing while they work. Instead of writing one long unstructured note, Tree Logger lets you add categorized entries such as debugging notes, implementation steps, solutions, errors, lessons, code notes, and trace points.
+
+The app is built in C++ with wxWidgets and focuses on fast keyboard-driven logging. You can insert timestamps, choose a log category, write a short entry, and save everything to a plain text file for later review. It is useful as a personal development journal, debugging timeline, or lightweight work log.
 
 ## Features
 
