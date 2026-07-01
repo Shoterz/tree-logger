@@ -16,11 +16,7 @@ The app is built in C++ with wxWidgets and focuses on fast keyboard-driven loggi
 
 ## Screenshot
 
-Screenshots can be added later in the `assets/` folder.
-
-```md
 ![Tree Logger screenshot](assets/screenshot.png)
-```
 
 ## Tech Stack
 
@@ -51,11 +47,11 @@ The generated `bin/` and `obj/` folders are ignored by Git.
 
 ## Future Images
 
-When you are ready to add an image:
+To add or replace project images later:
 
-1. Put the image in `assets/`, for example `assets/screenshot.png`.
-2. Uncomment or add the screenshot markdown in this README:
+1. Put the image in `assets/`, for example `assets/screenshot-2.png`.
+2. Add a markdown image reference in this README:
 
 ```md
-![Tree Logger screenshot](assets/screenshot.png)
+![Tree Logger screenshot](assets/screenshot-2.png)
 ```
