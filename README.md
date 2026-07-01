@@ -44,14 +44,3 @@ On Linux, the project expects wxWidgets libraries similar to:
 - `wx_baseu`
 
 The generated `bin/` and `obj/` folders are ignored by Git.
-
-## Future Images
-
-To add or replace project images later:
-
-1. Put the image in `assets/`, for example `assets/screenshot-2.png`.
-2. Add a markdown image reference in this README:
-
-```md
-![Tree Logger screenshot](assets/screenshot-2.png)
-```
